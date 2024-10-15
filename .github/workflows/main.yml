@@ -18,6 +18,8 @@ jobs:
         with:
           config_timezone: Europe/Berlin
           plugin_languages: yes
+          plugin_languages_indepth: true
+          plugin_languages_details: percentage, lines
           plugin_lines: yes
           plugin_lines_delay: 30
           plugin_lines_sections: base
