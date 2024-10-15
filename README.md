@@ -26,3 +26,4 @@ I am Malte Schilling from Germany!
 - ⚡ Fun fact: Ants don't have lungs, they "breathe" through tiny openings in their bodies called spiracles.
 
 ![Metrics](/github-metrics.svg)
+<sup>Graphic made using [lowlighter/metrics](https://github.com/lowlighter/metrics)</sup>
