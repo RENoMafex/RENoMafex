@@ -23,4 +23,5 @@ jobs:
           plugin_lines: yes
           plugin_lines_delay: 30
           plugin_lines_sections: base
+          plugin_habits: yes
           token: ${{ secrets.METRICS_TOKEN }}
