@@ -29,8 +29,8 @@ jobs:
             #plugin_habits: yes
             #plugin_habits_from: 1000
             #plugin_habits_days: 30
-            #plugin_16personalities: yes
-            #plugin_16personalities_url: https://www.16personalities.com/profiles/0acece9ed3408
-            #plugin_16personalities_sections: personality
+            plugin_16personalities: yes
+            plugin_16personalities_url: https://www.16personalities.com/entp-personality
+            plugin_16personalities_sections: personality
           
 
