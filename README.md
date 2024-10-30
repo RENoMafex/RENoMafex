@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 -->
 
 
+![Metrics](/github-metrics.svg)
+
+<sup>Graphic made using [lowlighter/metrics](https://github.com/lowlighter/metrics)</sup>
 
 ## Hi there 👋
 I am Malte Schilling from Germany!
@@ -25,6 +28,3 @@ I am Malte Schilling from Germany!
 - 📫 How to reach me: to be anounced :D 
 - ⚡ Fun fact: Ants don't have lungs, they "breathe" through tiny openings in their bodies called spiracles.
 
-![Metrics](/github-metrics.svg)
-
-<sup>Graphic made using [lowlighter/metrics](https://github.com/lowlighter/metrics)</sup>
