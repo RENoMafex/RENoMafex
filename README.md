@@ -14,11 +14,8 @@ Here are some ideas to get you started:
 -->
 
 
-![Metrics](/github-metrics.svg)
 
-<sup>Graphic made using [lowlighter/metrics](https://github.com/lowlighter/metrics)</sup>
-
-## Hi there 👋
+## Facts about me:
 I am Malte Schilling from Germany!
 
 - 🔭 I’m currently working on some small Shell scripts, to improve QOL when working in bash or zsh.
@@ -27,4 +24,9 @@ I am Malte Schilling from Germany!
 - 💬 Ask me about anything you want.
 - 📫 How to reach me: to be anounced :D 
 - ⚡ Fun fact: Ants don't have lungs, they "breathe" through tiny openings in their bodies called spiracles.
+
+## Stats:
+![Metrics](/github-metrics.svg)
+
+<sup>Graphic made using [lowlighter/metrics](https://github.com/lowlighter/metrics)</sup>
 
