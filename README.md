@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Facts about me:
-I am Malte Schilling from Germany!
+I am Malte Schilling from Germany, i am currently 29 years old! Even if i don't write code for a living, i like coding small things in my free time.
 
 - 🔭 I’m currently working on some small Shell scripts, to improve QOL when working in bash or zsh.
 - 🌱 I’m currently learning BASH, ZSH, vim and C(++).
