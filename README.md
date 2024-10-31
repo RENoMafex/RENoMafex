@@ -22,8 +22,8 @@ I am Malte Schilling from Germany!
 - 🌱 I’m currently learning BASH, ZSH, vim and C(++).
 - 👯 I’m looking to collaborate on anything i'm interested in.
 - 💬 Ask me about anything you want.
-- 📫 How to reach me: to be anounced :D 
-- ⚡ Fun fact: Ants don't have lungs, they "breathe" through tiny openings in their bodies called spiracles.
+<!-- - 📫 How to reach me: to be anounced :D 
+- ⚡ Fun fact: Ants don't have lungs, they "breathe" through tiny openings in their bodies called spiracles. -->
 
 ## Stats:
 ![Metrics](/github-metrics.svg)
