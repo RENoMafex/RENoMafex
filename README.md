@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 I am Malte Schilling from Germany, i am currently 29 years old! Even if i don't write code for a living, i like coding small things in my free time.
 
 - 🔭 I’m currently working on some small Shell scripts, to improve QOL when working in bash or zsh.
-- 🌱 I’m currently learning BASH, ZSH, vim and C(++).
+- 🌱 I’m currently learning ZSH, vim and C(++).
 - 👯 I’m looking to collaborate on anything i'm interested in.
 - 💬 Ask me about anything you want.
 <!-- - 📫 How to reach me: to be anounced :D 
