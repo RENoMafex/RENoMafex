@@ -17,10 +17,10 @@ I am Malte Schilling from Germany, i am currently 30 years old! Even if i don't 
 
 - 🔭 I’m currently working on a performance optimized [grc](https://github.com/garabik/grc) clone written in c++.
 - 🌱 I’m currently learning ZSH, vim and C(++).
+- 🤔 I’m looking for help with [grcpp](https://github.com/RENoMafex/grcpp).
 - 👯 I’m looking to collaborate on anything.
-- 💬 Ask me about anything you want.
-<!-- - 📫 How to reach me: to be anounced :D 
-- ⚡ Fun fact: Ants don't have lungs, they "breathe" through tiny openings in their bodies called spiracles. -->
+- 📫 How to reach me: [schilling.malte@googlemail.com](mailto:schilling.malte@googlemail.com)
+<!-- - ⚡ Fun fact: Ants don't have lungs, they "breathe" through tiny openings in their bodies called spiracles. -->
 
 ## Stats:
 ![Metrics](/github-metrics.svg)
