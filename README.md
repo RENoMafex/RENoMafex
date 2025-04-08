@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Facts about me:
-I am Malte Schilling from Germany, i am currently 30 years old! Even if i don't write code for a living (yet), but i like coding small things in my free time.
+I am Malte Schilling from Germany, i am currently 30 years old! Even if i don't write code for a living (yet), i like coding small things in my free time.
 
 - 🔭 I’m currently working on a performance optimized [grc](https://github.com/garabik/grc) clone written in c++.
 - 🌱 I’m currently learning ZSH, vim and C(++).
