@@ -22,7 +22,7 @@ I am Malte Schilling from Germany, i am currently 30 years old! Even if i don't 
 - 🤔 I’m looking for help with [grcpp](https://github.com/RENoMafex/grcpp).
 - 👯 I’m looking to collaborate on anything.
 - 📫 How to reach me: [schilling.malte@googlemail.com](mailto:schilling.malte@googlemail.com)
-- 🌐 My personal website: [renomafex.github.io](https://renomafex.github.io/)
+- 🌐 My personal website: [malte-schilling.eu](malte-schilling.eu)
 - ⚡ Fun fact: My very first received GitHub Star is on [shiftOut](https://github.com/RENoMafex/shiftOut) by [@manhere](https://github.com/manhere)
 
 ## Stats:
