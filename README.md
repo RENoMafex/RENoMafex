@@ -27,7 +27,7 @@ I am Malte Schilling from Germany, i am currently 30 years old! Even if i don't 
 
 <details>
 <summary>My PGP Key:</summary>
------BEGIN PGP PUBLIC KEY BLOCK-----
+-----BEGIN PGP PUBLIC KEY BLOCK-----<br>
 mDMEaCJQFxYJKwYBBAHaRw8BAQdA34DM3SnGLFndXEDWP891UhiQrvoiLJ6+3aVj
 gZuVt+60ME1hbHRlIFNjaGlsbGluZyA8c2NoaWxsaW5nLm1hbHRlQGdvb2dsZW1h
 aWwuY29tPoiTBBMWCgA7FiEEaJ9rKQ4y5W5rHIlLhYQc3F5It8AFAmgiUBcCGwMF
@@ -37,7 +37,7 @@ YUij/HtL9OgUZF0HuDgEaCJQFxIKKwYBBAGXVQEFAQEHQEjyRB6O98dtSlj7b3IK
 4+icC6YsMVhvU0IWj7fgHL41AwEIB4h4BBgWCgAgFiEEaJ9rKQ4y5W5rHIlLhYQc
 3F5It8AFAmgiUBcCGwwACgkQhYQc3F5It8COAQD+JXoBKdrf46Fyd7l2fKS7MQZT
 zqttc9f3mn3yCEc1OLEBAJfChXazTw4SjKUcx0TD0aWxEO0h8H2p5F2LTKHNT0sM
-=c8Ic
+=c8Ic<br>
 -----END PGP PUBLIC KEY BLOCK-----
 </details>
 
