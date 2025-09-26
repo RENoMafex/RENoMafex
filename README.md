@@ -19,7 +19,7 @@ I am Malte Schilling from Germany, i am currently 30 years old! Even if i don't 
   - [grcpp](https://github.com/RENoMafex/grcpp): a performance optimized [grc](https://github.com/garabik/grc) clone written in c++
   <!-- - [AlexaTimer](https://malte-schilling.eu/arduino_alexa_timer): a clock and timer display for amazons alexas using an Arduino Uno R4 WiFi -->
   - [stopwatch](https://github.com/RENoMafex/stopwatch): A simple TUI (Terminal) stopwatch, which supports checkpoints and logging.
-- 🌱 I’m currently learning vim, go and C++.
+- 🌱 I’m currently learning Rust and C++.
 - 🤔 I’m looking for help with [grcpp](https://github.com/RENoMafex/grcpp).
 - 👯 I’m looking to collaborate on anything.
 - 📫 How to reach me: [schilling.malte@googlemail.com](mailto:schilling.malte@googlemail.com)
