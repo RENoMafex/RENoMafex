@@ -39,10 +39,10 @@ YUij/HtL9OgUZF0HuDgEaCJQFxIKKwYBBAGXVQEFAQEHQEjyRB6O98dtSlj7b3IK
 3F5It8AFAmgiUBcCGwwACgkQhYQc3F5It8COAQD+JXoBKdrf46Fyd7l2fKS7MQZT
 zqttc9f3mn3yCEc1OLEBAJfChXazTw4SjKUcx0TD0aWxEO0h8H2p5F2LTKHNT0sM
 =c8Ic<br>
------END PGP PUBLIC KEY BLOCK-----
-<br><br>
-The Key is also published on [openpgp](https://keys.openpgp.org/search?q=689F6B290E32E56E6B1C894B85841CDC5E48B7C0)!
+-----END PGP PUBLIC KEY BLOCK-----<br><br>
 </details>
+
+The Key is also published on [openpgp](https://keys.openpgp.org/search?q=689F6B290E32E56E6B1C894B85841CDC5E48B7C0) !
 
 ## Stats:
 ![Metrics](/github-metrics.svg)
