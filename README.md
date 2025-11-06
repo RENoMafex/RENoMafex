@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 I am Malte Schilling from Germany, i am currently 30 years old! Even if i don't write code for a living (yet), i like coding small things in my free time.
 
 - 🔭 I’m currently working on 
-  - [grcpp](https://github.com/RENoMafex/grcpp): a performance optimized [grc](https://github.com/garabik/grc) clone written in c++
+  <!-- - [grcpp](https://github.com/RENoMafex/grcpp): a performance optimized [grc](https://github.com/garabik/grc) clone written in c++ -->
   <!-- - [AlexaTimer](https://malte-schilling.eu/arduino_alexa_timer): a clock and timer display for amazons alexas using an Arduino Uno R4 WiFi -->
   - [stopwatch](https://github.com/RENoMafex/stopwatch): A simple TUI (Terminal) stopwatch, which supports checkpoints and logging.
 - 🌱 I’m currently learning Rust.
