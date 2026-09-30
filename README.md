@@ -18,8 +18,9 @@ I am Malte Schilling from Germany, i am currently 31 years old! Even if i don't 
 - 🔭 I’m currently working on 
   <!-- - [grcpp](https://github.com/RENoMafex/grcpp): a performance optimized [grc](https://github.com/garabik/grc) clone written in c++ -->
   <!-- - [AlexaTimer](https://malte-schilling.eu/arduino_alexa_timer): a clock and timer display for amazons alexas using an Arduino Uno R4 WiFi -->
-  - [stopwatch](https://github.com/RENoMafex/stopwatch): A simple TUI (Terminal) stopwatch, which supports checkpoints and logging.
-- 🌱 I’m currently learning Rust.
+  <!-- - [stopwatch](https://github.com/RENoMafex/stopwatch): A simple TUI (Terminal) stopwatch, which supports checkpoints and logging. -->
+  - [AURupdater](https://github.com/RENoMafex/aurupdater)
+- 🌱 I’m currently learning Rust and Python.
 - 🤔 I’m looking for help with [grcpp](https://github.com/RENoMafex/grcpp).
 - 👯 I’m looking to collaborate on anything.
 - 📫 How to reach me: [schilling.malte@googlemail.com](mailto:schilling.malte@googlemail.com)
@@ -50,4 +51,3 @@ The Key is also published on [openpgp](https://keys.openpgp.org/search?q=3E56FED
 ![Metrics](/github-metrics.svg)
 
 <sup>Graphic made using [lowlighter/metrics](https://github.com/lowlighter/metrics)</sup>
-
